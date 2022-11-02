@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alisson Pereira Anjos
-- 👀 I’m interested in development in C#, .NET, Javascript, Svelte, Data Science (Python)
+- 👀 I’m interested in development in C#, .NET, Javascript, DevOps, Svelte, Data Science (Python), MLOps
 - 🌱 I’m currently learning Master in Data Science at Nuclio Digital School
 
 <!---
